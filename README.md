@@ -56,7 +56,8 @@ The Data Analysis projects aims to generate insight into the sales performance o
 SELECT*FROM TABLE 1
 WHERE CONDITION=TRUE
 ***
----
+
+
 
 
 
