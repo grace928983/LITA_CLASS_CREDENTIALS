@@ -15,7 +15,7 @@ The Data Analysis projects aims to generate insight into the sales performance o
 ---
 # Data Sources
 ## The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
-
+---
 # Tools Used
 ## Microsoft Excel [Download Here](https://www.microsof.com)
 
@@ -42,7 +42,20 @@ The Data Analysis projects aims to generate insight into the sales performance o
 ---
 
 # Exploratory Data Analysis
-### 
+### EDA involves the exploring of the Data to answer some questions about the Data such as;
+### •	What is the overall sales trend
+### •	Which product are top sellers
+### •	What are the products on peak sales?
+---
+
+# Data Analysis
+### This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis;
+
+```SQL
+SELECT*FROM TABLE 1
+WHERE CONDITION=TRUE
+***
+
 
 
 
