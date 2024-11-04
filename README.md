@@ -1,6 +1,6 @@
 # LITA_CLASS_CREDENTIALS
 ## My first project while learning Data Analysis with Incubator Hub
-### PROJECT TITLE:
+### PROJECT TITLE: Analysing the sales performmance of a retail store
 ### - Table of content
 ### - Project overview
 ### -  Data sources
@@ -11,7 +11,13 @@
 ### - Data Visualization
 ---
 # PROJECT OVERVIEW
-The Data Analysis projects aims to generate insight into the sales performance of the E commerce project over the past years. By analyzing the various parameter in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
+### In this project, we are tasked with analyzing the sales performance of a retail store. 
+### By exploring sales data to uncover key insights such as top-selling products, regional 
+### performance, and monthly sales trends. 
+# AIM:
+### The aim is to produce an interactive Power BI 
+### dashboard that highlights these findings
+
 ---
 
 # Data Sources
